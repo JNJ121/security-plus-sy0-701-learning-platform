@@ -1,5 +1,9 @@
 # Security+ SY0-701 Learning Lab v2 merged
 
+## Dashboard
+
+![Security+ SY0-701 Lab Dashboard](screenshots/dashboard.png)
+
 Preserves the original learning platform and adds Practice Questions, a configurable Mock Exam, PBQ Simulator, and Flashcards.
 
 ## Run
@@ -15,3 +19,20 @@ npm run dev
 - Flashcards: definitions plus exam cues, related terms, memory aids, and Again/Hard/Good/Easy LocalStorage scheduling.
 
 The project intentionally reports raw practice percentages only and does not reproduce CompTIA proprietary scaled scoring.
+
+## Screenshots
+
+### Flashcards
+screenshots/flashcards.png
+
+### Glossary
+screenshots/glossary.png
+
+### Mock Exam
+screenshots/mock-exam.png
+
+### PBQ Simulator
+screenshots/pbq-simulator.png
+
+### Objective Lessons
+screenshots/objective-5-1.png
