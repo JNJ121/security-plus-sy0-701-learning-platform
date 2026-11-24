@@ -23,16 +23,16 @@ The project intentionally reports raw practice percentages only and does not rep
 ## Screenshots
 
 ### Flashcards
-screenshots/flashcards.png
+![Security+ SY0-701 Lab Flashcards](screenshots/flashcards.png)
 
 ### Glossary
-screenshots/glossary.png
+![Security+ SY0-701 Lab Glossary](screenshots/glossary.png)
 
 ### Mock Exam
-screenshots/mock-exam.png
+![Security+ SY0-701 Lab Mock Exam](screenshots/mock-exam.png)
 
 ### PBQ Simulator
-screenshots/pbq-simulator.png
+![Security+ SY0-701 Lab PBQ Simulator](screenshots/pbq-simulator.png)
 
 ### Objective Lessons
-screenshots/objective-5-1.png
+![Security+ SY0-701 Objective Lessons](screenshots/objective-5-1.png)
